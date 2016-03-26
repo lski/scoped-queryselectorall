@@ -1,0 +1,31 @@
+{
+	"name": "scoped-queryselectorall",
+	"description": "A scoped querySelectorAll replacement",
+	"main": "./dist/scoped-queryselectorall.js",
+	"authors": [
+		"Lee Cooper <lee.cooper@lski.uk>"
+	],
+	"license": "ISC",
+	"keywords": [
+		"querySelectorAll",
+		"querySelector",
+		"selectors",
+		":scope",
+		"scope"
+	],
+	"moduleType": [
+		"amd",
+		"globals",
+		"node"
+	],
+	"homepage": "https://github.com/lski/scoped-queryselectorall",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests",
+		"gulpfile.js",
+		"npm-debug.log"
+	]
+}
